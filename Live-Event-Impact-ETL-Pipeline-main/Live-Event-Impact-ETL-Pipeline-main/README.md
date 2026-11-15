@@ -469,9 +469,9 @@ __pycache__/
 
 <div align="center">
 
-**Jaynil Mistry** · 📊 Data Analytics Portfolio Project
+**Nilesh Yadav* · 📊 Data Analytics Portfolio Project
 
-🔗 [github.com/jaynilmistry184-sys](https://github.com/jaynilmistry184-sys)
+🔗 https://github.com/Nameis-nilesh
 
 Distributed under the **MIT License**
 
