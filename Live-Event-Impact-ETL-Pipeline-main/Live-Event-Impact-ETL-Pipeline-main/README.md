@@ -277,7 +277,7 @@ GROUP BY e.Event_ID, e.Artist_Name, e.City, e.Event_Date;
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/jaynilmistry184-sys/Live-Event-Impact-ETL-Pipeline.git
+https://github.com/Nameis-nilesh/Live-Event-Impact-ETL-Pipeline
 cd Live-Event-Impact-ETL-Pipeline/Spotify
 ```
 
